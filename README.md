@@ -45,9 +45,12 @@ Team Member 2:
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
-All necessary code files and any additional information required to judge your project solution should be included in the repository. 
+All necessary code files and any additional information required to judge your project solution should be included in the repository.
+
+- [Task 1 Notes](https://docs.google.com/document/d/1VRfP5HqN23bVB93HQAkQpLT7cpH1vBgg4gABm9UxBAQ/edit?usp=sharing)
+- Other task notebooks are present in the repo.
 
 ### Project Presentation Deck:
 - [Project Presentation](https://drive.google.com/file/d/1doyxKmVgXqZUKUg3mQLLFfe_ci-GlgOg/view?usp=sharing) 
-_Link a 5min. presentation recording or deck here._
+
 
